@@ -14,7 +14,7 @@ const Footer = () => {
          </div>
          <div className="w-full border bg-black opacity-40">
             <nav className="container flex justify-between items-center h-[89px] py-7 text-white">
-               <div className="text-[26px] font-normal">Escape.</div>
+               <div className="text-[26px] text-[#fff] font-normal">Escape.</div>
                <ul className="flex gap-10 uppercase text-[11px]">
                   <li>
                      <a href="">Home</a>
