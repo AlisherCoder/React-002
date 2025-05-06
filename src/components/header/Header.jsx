@@ -6,7 +6,7 @@ const Header = () => {
          <div className="container">
             <nav className="flex justify-between items-center h-[74px] py-7 text-white">
                <div className="text-[26px] font-normal">Escape.</div>
-               <ul className="flex gap-10 uppercase">
+               <ul className="flex gap-10 uppercase text-[12px]">
                   <li>
                      <a href="">Home</a>
                   </li>
